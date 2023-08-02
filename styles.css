@@ -1,4 +1,15 @@
 /*  your css code here. If applicable */
-.body{
-	background-color:grey;
+.player_one{
+	  background-color:white;
+	  border:1px solid black;
+	  padding-right:0px;
+	  
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+body{
+	background-color:#cccccc;
+	
 }
