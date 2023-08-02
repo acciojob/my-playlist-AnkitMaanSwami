@@ -2,10 +2,10 @@
 .player_one{
 	  background-color:white;
 	  border:1px solid black;
-	  padding-right:0px;
-	  padding-top:10px;
-	  padding-bottom:10px;
-	  border-raduis:10px;
+	  padding:10px 10px 10px 10px;
+	border-raduis:0px
+	  
+	  
 }
 a{
 	color:black;
