@@ -3,7 +3,9 @@
 	  background-color:white;
 	  border:1px solid black;
 	  padding-right:0px;
-	  
+	  padding-top:10px;
+	  padding-bottom:10px;
+	  border-raduis:10px;
 }
 a{
 	color:black;
